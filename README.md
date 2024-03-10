@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-###Let's Connect on [Linkedin](https://www.linkedin.com/in/pritampandit/). 
+🔭Working with data to find the truth.
+
+✨Love to handle messy data.
+
+💬First Principle Thinker
+
+👯Let's Connect on [Linkedin](https://www.linkedin.com/in/pritampandit/). 
+👯Email : pritam@bu.edu
 <!--
 **pritamrp/pritamrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
