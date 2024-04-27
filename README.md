@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hey there! 👋
 
-🔭Working with data to find the truth.
+I am Pritam and a bit about me.
 
-✨Love to handle messy data.
+🔭 Exploring the World a Row at Time.
 
-💬First Principle Thinker
+✨ Embracing the challenge of untangling messy data.
 
-👯Let's Connect on [Linkedin](https://www.linkedin.com/in/pritampandit/). 
+💬 Guided by first principles in my approach.
 
-👯Email : pritam@bu.edu
+👯 Let's connect on [LinkedIn](https://www.linkedin.com/in/pritampandit/) to explore AI/ML.
+
+📧 Drop me a line at pritam@bu.edu to kickstart a conversation.
 <!--
 **pritamrp/pritamrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
